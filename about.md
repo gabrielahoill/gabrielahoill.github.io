@@ -8,7 +8,7 @@ permalink: /about/
 <ul><li>TREASURE (Internacional)</li>
 <li>트레저 (teulejeo) en Corea</li>
 <li>トレジャー (torejā) en Japón</li>
-<li><b>¿Por qué? "TREASURE":</b>"TREASURE" Significa tesoro en inglés y también hace referencia al programa que les dio a conocer, <a href="/es/wiki/YG_Treasure_Box" title="YG Treasure Box">YG Treasure Box</a>.</li></ul></li>
+<li><b>¿Por qué? "TREASURE":</b>"TREASURE" Significa tesoro en inglés y también hace referencia al programa que les dio a conocer, YG Treasure Box</a>.</li></ul></li>
 <li><b>Origen:</b> Corea del Sur.</li>
 <li><b>Número de integrantes:</b>12chicos (8 coreanos y 4 japoneses).</li>
 <li><b>Debut: </b>
